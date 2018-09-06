@@ -5,4 +5,4 @@ https://github.com/mikesprague/udacity-nanodegrees
 
 ## Programa de Frontend Web Developer 
 
-* 1. JavaScript Design patterns -> carpeta javascript-patterns
+1. JavaScript Design patterns -> carpeta javascript-patterns
